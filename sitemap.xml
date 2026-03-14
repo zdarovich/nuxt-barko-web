@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://barko.ee/</loc>
+    <lastmod>2026-03-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://barko.ee/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://barko.ee/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://barko.ee/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://barko.ee/"/>
+  </url>
+  <url>
+    <loc>https://barko.ee/en/</loc>
+    <lastmod>2026-03-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://barko.ee/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://barko.ee/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://barko.ee/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://barko.ee/"/>
+  </url>
+  <url>
+    <loc>https://barko.ee/ru/</loc>
+    <lastmod>2026-03-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://barko.ee/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://barko.ee/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://barko.ee/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://barko.ee/"/>
+  </url>
+  <url>
+    <loc>https://barko.ee/fasaadid/</loc>
+    <lastmod>2026-03-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://barko.ee/fasaadid/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://barko.ee/en/facades/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://barko.ee/ru/fasady/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://barko.ee/fasaadid/"/>
+  </url>
+  <url>
+    <loc>https://barko.ee/en/facades/</loc>
+    <lastmod>2026-03-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://barko.ee/fasaadid/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://barko.ee/en/facades/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://barko.ee/ru/fasady/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://barko.ee/fasaadid/"/>
+  </url>
+  <url>
+    <loc>https://barko.ee/ru/fasady/</loc>
+    <lastmod>2026-03-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://barko.ee/fasaadid/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://barko.ee/en/facades/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://barko.ee/ru/fasady/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://barko.ee/fasaadid/"/>
+  </url>
+  <url>
+    <loc>https://barko.ee/katused/</loc>
+    <lastmod>2026-03-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://barko.ee/katused/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://barko.ee/en/roofing/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://barko.ee/ru/krovlja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://barko.ee/katused/"/>
+  </url>
+  <url>
+    <loc>https://barko.ee/en/roofing/</loc>
+    <lastmod>2026-03-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://barko.ee/katused/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://barko.ee/en/roofing/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://barko.ee/ru/krovlja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://barko.ee/katused/"/>
+  </url>
+  <url>
+    <loc>https://barko.ee/ru/krovlja/</loc>
+    <lastmod>2026-03-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://barko.ee/katused/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://barko.ee/en/roofing/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://barko.ee/ru/krovlja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://barko.ee/katused/"/>
+  </url>
+  <url>
+    <loc>https://barko.ee/betoonitood/</loc>
+    <lastmod>2026-03-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://barko.ee/betoonitood/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://barko.ee/en/concrete/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://barko.ee/ru/betonnye/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://barko.ee/betoonitood/"/>
+  </url>
+  <url>
+    <loc>https://barko.ee/en/concrete/</loc>
+    <lastmod>2026-03-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://barko.ee/betoonitood/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://barko.ee/en/concrete/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://barko.ee/ru/betonnye/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://barko.ee/betoonitood/"/>
+  </url>
+  <url>
+    <loc>https://barko.ee/ru/betonnye/</loc>
+    <lastmod>2026-03-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://barko.ee/betoonitood/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://barko.ee/en/concrete/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://barko.ee/ru/betonnye/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://barko.ee/betoonitood/"/>
+  </url>
+  <url>
+    <loc>https://barko.ee/kivitood/</loc>
+    <lastmod>2026-03-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://barko.ee/kivitood/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://barko.ee/en/stonework/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://barko.ee/ru/kamennye/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://barko.ee/kivitood/"/>
+  </url>
+  <url>
+    <loc>https://barko.ee/en/stonework/</loc>
+    <lastmod>2026-03-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://barko.ee/kivitood/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://barko.ee/en/stonework/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://barko.ee/ru/kamennye/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://barko.ee/kivitood/"/>
+  </url>
+  <url>
+    <loc>https://barko.ee/ru/kamennye/</loc>
+    <lastmod>2026-03-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://barko.ee/kivitood/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://barko.ee/en/stonework/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://barko.ee/ru/kamennye/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://barko.ee/kivitood/"/>
+  </url>
+</urlset>
